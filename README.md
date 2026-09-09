@@ -3,17 +3,17 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 5**
+**Total solved: 6**
 
 ## Codeforces
 
 Solutions by [raghvendrakumar2550](https://codeforces.com/profile/raghvendrakumar2550), organized by difficulty rating.
 
-**Solved: 0**
+**Solved: 1**
 
 | Difficulty | Solved |
 | --- | --- |
-| — | 0 |
+| [1900](./codeforces/1900) | 1 |
 
 
 ## LeetCode
