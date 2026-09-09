@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 2**
+**Total solved: 3**
 
 ## Codeforces
 
@@ -20,11 +20,12 @@ Solutions by [raghvendrakumar2550](https://codeforces.com/profile/raghvendrakuma
 
 Solutions organized by primary topic folder.
 
-**Solved: 2**
+**Solved: 3**
 
 | Topic | Solved |
 | --- | --- |
 | [Java](./LeetCode/Java/Easy/4245. Count Commas in Range) | 1 |
+| [math](./leetcode/math) | 1 |
 | [Patterns](./LeetCode/Patterns/Math/4245. Count Commas in Range) | 1 |
 
 
