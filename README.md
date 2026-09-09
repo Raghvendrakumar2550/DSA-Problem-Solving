@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 3**
+**Total solved: 4**
 
 ## Codeforces
 
@@ -33,11 +33,11 @@ Solutions organized by primary topic folder.
 
 Solutions from the CSES Problem Set, organized by section.
 
-**Solved: 0**
+**Solved: 1**
 
 | Section | Solved |
 | --- | --- |
-| — | 0 |
+| [graph-algorithms](./cses/graph-algorithms) | 1 |
 
 
 ## CodeChef
