@@ -64,8 +64,8 @@ The string `s = "au 123"` contains no consonants `(c = 0)`, so the score is 0.
 
 **Language:** Java  
 **Runtime:** 1 ms (beats 100.00%)  
-**Memory:** 43.5 MB (beats 70.23%)  
-**Submitted:** 2026-09-16T17:29:05.644Z  
+**Memory:** 43.5 MB (beats 69.97%)  
+**Submitted:** 2026-09-17T19:27:42.085Z  
 
 ```java
 class Solution {
