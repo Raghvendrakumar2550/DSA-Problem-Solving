@@ -92,4 +92,6 @@ class Codechef
 
 ---
 
+
+
 [View on CodeChef](https://www.codechef.com/problems/AVGPROBLEM)
