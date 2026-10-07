@@ -53,13 +53,13 @@ Explanation: a@b.com is repeated two times.
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 369 ms (beats 87.18%)  
+**Runtime:** 382 ms (beats 76.02%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-10-07T12:48:56.099Z  
+**Submitted:** 2026-10-07T12:52:54.474Z  
 
 ```sql
 # Write your MySQL query statement below
-select email from Person group by email having count(email) > 1;
+select email from Person group by email having count(*) > 1;
 ```
 
 ---
