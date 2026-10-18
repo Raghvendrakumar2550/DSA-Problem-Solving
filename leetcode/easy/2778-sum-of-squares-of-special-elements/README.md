@@ -42,9 +42,9 @@ Hence, the sum of the squares of all special elements of nums is nums[1]  *nums[
 ## Solution
 
 **Language:** Java  
-**Runtime:** 3 ms (beats 1.09%)  
-**Memory:** 46.1 MB (beats 97.59%)  
-**Submitted:** 2026-10-16T18:00:13.207Z  
+**Runtime:** 2 ms (beats 3.37%)  
+**Memory:** 45.6 MB (beats 99.83%)  
+**Submitted:** 2026-10-18T16:53:02.161Z  
 
 ```java
 class Solution {
